@@ -1,8 +1,8 @@
-# dynamic_components_geeksforgeeeks_tutorial
+# VueJS dynamic_components_geeksforgeeeks_tutorial
 
 This is a follow up geeksforgeeks tutorial about dynamic components in VueJS.
 
-## What are VusJS Dynaic Components?
+## What are VueJS Dynaic Components?
 
 These are components that allow the user to switch over the components without updating the route of the Vue.js application itself.
 
