@@ -6,6 +6,16 @@ This is a follow up geeksforgeeks tutorial about dynamic components in VueJS.
 
 These are components that allow the user to switch over the components without updating the route of the Vue.js application itself.
 
+## Vue.js Dynamic Components Attribute:
+
+:is: This field accepts a name string for the registered component or an actual component.
+
+Syntax: In the component section, add the :is field and provide either the variable name or the component name as follows:
+
+```code
+<component :is="currentComponent" />
+```
+
 
 ## Recommended IDE Setup
 
